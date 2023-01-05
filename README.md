@@ -1,3 +1,4 @@
 # MOChartsDemo
-![效果图](assets/效果图.png)
+
+<img src="./assets/效果图.png" style="zoom:50%;" />
 
